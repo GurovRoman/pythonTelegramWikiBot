@@ -1,0 +1,3 @@
+[submodule "ngram"]
+	path = ngram
+	url = git@github.com:GurovRoman/pythonNGramModel.git
